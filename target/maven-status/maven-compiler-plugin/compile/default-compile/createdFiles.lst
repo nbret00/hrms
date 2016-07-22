@@ -1,0 +1,5 @@
+com\mycompany\mavenproject2\service\AbstractFacade.class
+com\mycompany\mavenproject2\Person.class
+com\mycompany\mavenproject2\Person_.class
+com\mycompany\mavenproject2\service\ApplicationConfig.class
+com\mycompany\mavenproject2\service\PersonFacadeREST.class
