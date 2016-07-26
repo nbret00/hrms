@@ -70,7 +70,7 @@
             <plugin>
                 <groupId>org.glassfish.maven.plugin</groupId>
                 <artifactId>maven-embedded-glassfish-plugin</artifactId>
-                <version>3.0-74b</version>
+                <version>2.1</version>
                 <configuration>
                     <goalPrefix>embedded-glassfish</goalPrefix>
                     <app>target/mavenproject2-1.0-SNAPSHOT.war</app>
