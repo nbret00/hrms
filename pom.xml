@@ -68,7 +68,7 @@
             </plugin>            
             
             <plugin>
-                <groupId>org.glassfish</groupId>
+                <groupId>org.glassfish.maven.plugin</groupId>
                 <artifactId>maven-embedded-glassfish-plugin</artifactId>
                 <version>3.0-74b</version>
                 <configuration>
