@@ -52,7 +52,7 @@
             <plugin>
                 <groupId>org.glassfish</groupId>
                 <artifactId>maven-embedded-glassfish-plugin</artifactId>
-                <version>3.1.2</version>
+                <version>3.0-74b</version>
                 <configuration>
                     <goalPrefix>embedded-glassfish</goalPrefix>
                     <app>target/mavenproject2-1.0-SNAPSHOT.war</app>
