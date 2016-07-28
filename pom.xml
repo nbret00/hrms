@@ -62,8 +62,7 @@
                 <configuration>
                     <goalPrefix>embedded-glassfish</goalPrefix>
                     <app>target/mavenproject2-1.0-SNAPSHOT.war</app>
-                    <port>8080</port> 
-                    <contextRoot>test</contextRoot> 
+                    <port>80</port> 
                     <autoDelete>true</autoDelete>
                     </configuration>
     <dependencies>
