@@ -16,9 +16,9 @@
     
     <dependencies>
 <dependency>
-    <groupId>org.postgresql</groupId>
-    <artifactId>postgresql</artifactId>
-    <version>9.2-1003-jdbc4</version>
+  <groupId>org.postgresql</groupId>
+  <artifactId>postgresql</artifactId>
+  <version>9.4.1208</version>
 </dependency>
 
         <dependency>
